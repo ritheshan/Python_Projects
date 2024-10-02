@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+env/
+
+# Output files
+passwords.txt
+
+# Secret key files
+secret.key
+
+# System-specific files
+.DS_Store
+
+# IDE-specific files (optional)
+.vscode/
+.idea/
+*.swp
